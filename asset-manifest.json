@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/divy-catch-of-the-day/static/css/main.7d98a2a5.chunk.css",
+    "main.js": "/divy-catch-of-the-day/static/js/main.51bce641.chunk.js",
+    "main.js.map": "/divy-catch-of-the-day/static/js/main.51bce641.chunk.js.map",
+    "runtime-main.js": "/divy-catch-of-the-day/static/js/runtime-main.6c38c090.js",
+    "runtime-main.js.map": "/divy-catch-of-the-day/static/js/runtime-main.6c38c090.js.map",
+    "static/js/2.26f03b53.chunk.js": "/divy-catch-of-the-day/static/js/2.26f03b53.chunk.js",
+    "static/js/2.26f03b53.chunk.js.map": "/divy-catch-of-the-day/static/js/2.26f03b53.chunk.js.map",
+    "index.html": "/divy-catch-of-the-day/index.html",
+    "precache-manifest.0d65f8d374c7adb1d9cfd16667928138.js": "/divy-catch-of-the-day/precache-manifest.0d65f8d374c7adb1d9cfd16667928138.js",
+    "service-worker.js": "/divy-catch-of-the-day/service-worker.js",
+    "static/css/main.7d98a2a5.chunk.css.map": "/divy-catch-of-the-day/static/css/main.7d98a2a5.chunk.css.map",
+    "static/js/2.26f03b53.chunk.js.LICENSE.txt": "/divy-catch-of-the-day/static/js/2.26f03b53.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/divy-catch-of-the-day/static/media/haymaker-webfont.e9535f20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c38c090.js",
+    "static/js/2.26f03b53.chunk.js",
+    "static/css/main.7d98a2a5.chunk.css",
+    "static/js/main.51bce641.chunk.js"
+  ]
+}
